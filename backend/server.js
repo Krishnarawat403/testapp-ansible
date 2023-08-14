@@ -4,7 +4,7 @@ const port = 5000; // Port on which your backend application will run
 
 // Define your API routes here
 app.get('/', (req, res) => {
-  res.send('Hello, this is your backend server!');
+  res.send('Hello, Welcome to becloudready!');
 });
 
 // Start the server
