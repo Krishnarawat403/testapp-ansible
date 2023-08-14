@@ -17,3 +17,6 @@ EXPOSE 5000
 
 # Command to start the backend application
 CMD ["npm", "start"]
+
+
+
